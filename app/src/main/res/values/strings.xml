@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tela de login</string>
+    <string name="email">Email:</string>
+    <string name="senha">Senha:</string>
+    <string name="btn1">Login</string>
+    <string name="btn2">cadastrar</string>
+    <string name="logado">Logado</string>
+</resources>
